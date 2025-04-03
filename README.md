@@ -52,9 +52,9 @@ pip install -r requirements.txt
 
 ## 📎 Repository Files
 
-**AirBnB-project.ipynb** - Notebook containing the analysis.
+[**AirBnB-project.ipynb**](https://github.com/CatarinaPinheiro-datanalyst/AirBnB-Data-Analysis---Python/blob/main/AirBnB-project.ipynb) - Notebook containing the analysis.
 
-**datasets.csv** - Dataset used.
+[**datasets.csv**](https://github.com/CatarinaPinheiro-datanalyst/AirBnB-Data-Analysis---Python/blob/main/datasets.csv) - Dataset used.
 
 **README.md** - This document describing the project.
 
